@@ -81,7 +81,7 @@ classes_path指向检测类别所对应的txt。**
 ### a、使用预训练权重
 1. 将保存好的模型放入model_data文件夹中，将要预测的图片放入img文件夹中，运行predict.py，输入  
 ```python
-img/street.jpg
+img/xxx.jpg
 ```
 2. 在predict.py里面进行设置可以进行fps测试和video视频检测。  
 ### b、使用自己训练的权重
